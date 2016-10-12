@@ -1,0 +1,32 @@
+*{
+font-family: 'Raleway Dots', cursive;
+color: white;
+}
+body{
+
+display: inline-block;
+}
+
+
+h1#hex{ 
+
+font-size: 145px;
+text-align: center;
+
+
+}
+
+
+#hex{
+font-size: 50px;
+text-align: center;
+margin:165px;
+}
+
+.box{
+border-style: solid;
+margin-top: 140px;
+}
+div{
+	margin-left: 230px;
+}
